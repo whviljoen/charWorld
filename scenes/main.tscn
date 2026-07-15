@@ -13,4 +13,4 @@ current = true
 zoom = Vector2( 0.3, 0.3 )
 
 [node name="player" parent="." instance=ExtResource( 2 )]
-position = Vector2( 13, 17 )
+position = Vector2( 29, 48 )
